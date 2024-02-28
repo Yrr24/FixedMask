@@ -2,12 +2,6 @@
   "name": "FixedMask",
   "description": "Plugin for fixing mask-related issues in the game.",
   "version_number": "1.0.0",
-  "dependencies": [
-    "MythicManiac-TestMod-1.1.0",
-    "SomeAuthor-SomePackage-1.0.0"
-  ],
-  "website_url": "https://github.com/Yrr24/FixedMask.git",
-  "installers": [
-    { "identifier": "fixed-mask-installer" }
-  ]
+  "dependencies": [],
+  "website_url": "https://github.com/Yrr24/FixedMask.git"
 }
